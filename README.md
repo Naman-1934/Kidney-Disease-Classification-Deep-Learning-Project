@@ -1,1 +1,1 @@
-# Kidney-Disease-Classification-MLFlow-DVC-AWS
+# Kidney-Disease-Classification-MLflow-DVC

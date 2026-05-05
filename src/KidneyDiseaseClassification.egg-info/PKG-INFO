@@ -1,0 +1,16 @@
+Metadata-Version: 2.4
+Name: KidneyDiseaseClassification
+Version: 0.0.1
+Summary: A Small python package for CNN app
+Home-page: https://github.com/Naman-1934/Kidney-Disease-Classification-Deep-Learning-Project
+Author: Naman-1934
+Author-email: naman532002@gmail.com
+Project-URL: Bug Tracker, https://github.com/Naman-1934/Kidney-Disease-Classification-Deep-Learning-Project/issues
+Dynamic: author
+Dynamic: author-email
+Dynamic: description
+Dynamic: home-page
+Dynamic: project-url
+Dynamic: summary
+
+# Kidney-Disease-Classification-MLFlow-DVC-AWS

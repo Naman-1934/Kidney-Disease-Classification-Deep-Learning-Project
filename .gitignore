@@ -1,1 +1,19 @@
-kidneyENV
+
+# Virtual Environment
+kidneyENV/
+==/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Dataset
+kidney-ct-scan-image/
+*.zip
+
+# Logs
+logs/
+research/logs/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
